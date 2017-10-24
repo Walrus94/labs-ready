@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="org.springframework.context.support-3.1.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/labs-ready/labs-ready/lab-3-core/lib/org.springframework.context.support-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/labs-ready/labs-ready/lab-3-core/lib/org.springframework.context-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/labs-ready/labs-ready/lab-3-core/lib/org.springframework.beans-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/labs-ready/labs-ready/lab-3-core/lib/org.springframework.asm-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/labs-ready/labs-ready/lab-3-core/lib/log4j-1.2.15.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/labs-ready/labs-ready/lab-3-core/lib/javax.persistence_2.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/labs-ready/labs-ready/lab-3-core/lib/commons-logging.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/labs-ready/labs-ready/lab-3-core/lib/org.springframework.core-3.1.0.RELEASE.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/labs-ready/labs-ready/lab-3-core/lib/org.springframework.expression-3.1.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
